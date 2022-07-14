@@ -2,7 +2,7 @@
   {
     "title": "Breaking Bad",
     "id": 0,
-    "img": "breaking-bad.jpeg",
+    "img": "https://characters-hackathon-server.herokuapp.com/images/breaking-bad.jpeg",
     "description": "Breaking Bad follows Walter White, a meek high school chemistry teacher who transforms into a ruthless player in the local methamphetamine drug trade, driven by a desire to financially provide for his family after being diagnosed with terminal lung cancer.",
     "dates": "January 2008 - September 2013",
     "characters": [
@@ -41,7 +41,7 @@
   {
     "title": "Stranger Things",
     "id": 1,
-    "img": "stranger-things.jpeg",
+    "img": "https://characters-hackathon-server.herokuapp.com/images/stranger-things.jpeg",
     "description": "When Joyce's 12-year-old son Will goes missing, she launches a terrifying investigation into his disappearance with local authorities. As they search for answers, they unravel a series of extraordinary mysteries involving secret government experiments, unnerving supernatural forces and a very unusual little girl.",
     "dates": "July 2016 - Present",
     "characters": [
@@ -80,7 +80,7 @@
   {
     "title": "Peaky Blinders",
     "id": 2,
-    "img": "peaky-blinders.jpeg",
+    "img": "https://characters-hackathon-server.herokuapp.com/images/peaky-blinders.jpeg",
     "description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby. Thomas Shelby and his brothers return to Birmingham after serving in the British Army during WWI.",
     "dates": "September 2013 - Present",
     "characters": [
@@ -119,7 +119,7 @@
   {
     "title": "Ozark",
     "id": 3,
-    "img": "ozark.jpeg",
+    "img": "https://characters-hackathon-server.herokuapp.com/images/ozark.jpeg",
     "description": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss. The Byrdes and their teenage kids, Charlotte and Jonah, are, for all intents and purposes, an ordinary family with ordinary lives.",
     "dates": "July 2017 - Present",
     "characters": [
